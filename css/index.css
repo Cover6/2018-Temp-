@@ -2,6 +2,8 @@
  @import url('https://fonts.googleapis.com/css?family=Passion+One');
 /* Imported Fonts */
 
+body { overflow:hidden; }
+
 /* Navigation Bar */
 .discordbranding {
 	background-color: #7289DA;
