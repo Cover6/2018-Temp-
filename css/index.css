@@ -59,20 +59,13 @@
 /*About us */
 
 /* Footer */
-div.fixed {
-	text-align: center;
-    position: fixed;
-	height: 5em;
-    width: 100%;
-    bottom: 0px;
-} 
-
-.center-text {
+.cus {
+	width: 95%;
 	font-size: 1.2em;
-	font-family: 'Passion One', cursive;
-	position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+	height: 3em;
+	margin: auto;
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
 /* Footer */
